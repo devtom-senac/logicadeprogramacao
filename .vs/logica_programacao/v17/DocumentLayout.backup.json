@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBC2FD7F-8DFA-49A8-975E-F25471A9A35E}|ex.03\\ex.03.csproj|c:\\users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBC2FD7F-8DFA-49A8-975E-F25471A9A35E}|ex.03\\ex.03.csproj|solutionrelative:ex.03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB30DA1-F599-425E-935B-235A5E6B9F1B}|ex.02\\ex.02.csproj|c:\\users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB30DA1-F599-425E-935B-235A5E6B9F1B}|ex.02\\ex.02.csproj|solutionrelative:ex.02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3BB50CB-B152-48A4-8C22-61CC41B756F5}|ex01\\ex01.csproj|c:\\users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3BB50CB-B152-48A4-8C22-61CC41B756F5}|ex01\\ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.03\\Program.cs",
+              "RelativeDocumentMoniker": "ex.03\\Program.cs",
+              "ToolTip": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.03\\Program.cs*",
+              "RelativeToolTip": "ex.03\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:05:48.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.02\\Program.cs",
+              "RelativeDocumentMoniker": "ex.02\\Program.cs",
+              "ToolTip": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.02\\Program.cs",
+              "RelativeToolTip": "ex.02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:47:58.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex01\\Program.cs",
+              "RelativeDocumentMoniker": "ex01\\Program.cs",
+              "ToolTip": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex01\\Program.cs",
+              "RelativeToolTip": "ex01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:42:17.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
