@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex01", "ex01\ex01.csproj", "{D3BB50CB-B152-48A4-8C22-61CC41B756F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex01", "ex01\ex01.csproj", "{D3BB50CB-B152-48A4-8C22-61CC41B756F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex.02", "ex.02\ex.02.csproj", "{7CB30DA1-F599-425E-935B-235A5E6B9F1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex.02", "ex.02\ex.02.csproj", "{7CB30DA1-F599-425E-935B-235A5E6B9F1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex.03", "ex.03\ex.03.csproj", "{FBC2FD7F-8DFA-49A8-975E-F25471A9A35E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex.03", "ex.03\ex.03.csproj", "{FBC2FD7F-8DFA-49A8-975E-F25471A9A35E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex.04", "Ex.04\Ex.04.csproj", "{A547ECD3-3A99-4D6E-B27E-603EF2023962}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FBC2FD7F-8DFA-49A8-975E-F25471A9A35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC2FD7F-8DFA-49A8-975E-F25471A9A35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC2FD7F-8DFA-49A8-975E-F25471A9A35E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A547ECD3-3A99-4D6E-B27E-603EF2023962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A547ECD3-3A99-4D6E-B27E-603EF2023962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A547ECD3-3A99-4D6E-B27E-603EF2023962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A547ECD3-3A99-4D6E-B27E-603EF2023962}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
