@@ -1,0 +1,5 @@
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.08\obj\Debug\net8.0\Ex.08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.08\obj\Debug\net8.0\Ex.08.AssemblyInfoInputs.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.08\obj\Debug\net8.0\Ex.08.AssemblyInfo.cs
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.08\obj\Debug\net8.0\Ex.08.csproj.CoreCompileInputs.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.08\obj\Debug\net8.0\Ex.08.sourcelink.json
