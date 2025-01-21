@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88454A4A-4F88-4739-B120-687502061763}|Ex.29\\Ex.29.csproj|c:\\users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88454A4A-4F88-4739-B120-687502061763}|Ex.29\\Ex.29.csproj|solutionrelative:ex.29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE46AD8B-33B8-49F3-890B-D82794AB8A49}|Ex.28\\Ex.28.csproj|c:\\users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE46AD8B-33B8-49F3-890B-D82794AB8A49}|Ex.28\\Ex.28.csproj|solutionrelative:ex.28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B91FFF9A-CD5C-4497-8A6E-265FB61E9856}|Ex.27\\Ex.27.csproj|c:\\users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B91FFF9A-CD5C-4497-8A6E-265FB61E9856}|Ex.27\\Ex.27.csproj|solutionrelative:ex.27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88454A4A-4F88-4739-B120-687502061763}|Ex.29\\Ex.29.csproj|c:\\users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88454A4A-4F88-4739-B120-687502061763}|Ex.29\\Ex.29.csproj|solutionrelative:ex.29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3038570E-3541-4E60-BB1B-ACAF1236697E}|Ex.26\\Ex.26.csproj|c:\\users\\heverton.nsouza\\source\\repos\\logica_programacao\\ex.26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,37 +126,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\Ex.29\\Program.cs",
               "RelativeDocumentMoniker": "Ex.29\\Program.cs",
               "ToolTip": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\Ex.29\\Program.cs",
               "RelativeToolTip": "Ex.29\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T00:40:08.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\Ex.28\\Program.cs",
               "RelativeDocumentMoniker": "Ex.28\\Program.cs",
               "ToolTip": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\Ex.28\\Program.cs",
               "RelativeToolTip": "Ex.28\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:39:53.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:39:53.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\heverton.nsouza\\source\\repos\\logica_programacao\\Ex.27\\Program.cs",
               "RelativeDocumentMoniker": "Ex.27\\Program.cs",
@@ -164,8 +163,7 @@
               "RelativeToolTip": "Ex.27\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:38:37.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:38:37.776Z"
             },
             {
               "$type": "Document",
@@ -177,8 +175,7 @@
               "RelativeToolTip": "Ex.26\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:31:45.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:31:45.874Z"
             },
             {
               "$type": "Document",
@@ -190,8 +187,7 @@
               "RelativeToolTip": "Ex.25\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:31:18.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:31:18.456Z"
             },
             {
               "$type": "Document",
@@ -203,8 +199,7 @@
               "RelativeToolTip": "Ex.24\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:24:35.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:24:35.675Z"
             },
             {
               "$type": "Document",
@@ -216,8 +211,7 @@
               "RelativeToolTip": "Ex.23\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:21:28.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:21:28.547Z"
             },
             {
               "$type": "Document",
@@ -229,8 +223,7 @@
               "RelativeToolTip": "Ex.22\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:19:58.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:19:58.18Z"
             },
             {
               "$type": "Document",
@@ -242,8 +235,7 @@
               "RelativeToolTip": "Ex.21\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:18:09.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:18:09.079Z"
             },
             {
               "$type": "Document",
@@ -255,8 +247,7 @@
               "RelativeToolTip": "Ex.20\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:17:03.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:17:03.972Z"
             },
             {
               "$type": "Document",
@@ -268,8 +259,7 @@
               "RelativeToolTip": "Ex.19\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:14:02.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:14:02.162Z"
             },
             {
               "$type": "Document",
@@ -281,8 +271,7 @@
               "RelativeToolTip": "Ex.18\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T00:08:33.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T00:08:33.897Z"
             },
             {
               "$type": "Document",
@@ -294,8 +283,7 @@
               "RelativeToolTip": "Ex.17\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:32:25.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:32:25.737Z"
             },
             {
               "$type": "Document",
@@ -307,8 +295,7 @@
               "RelativeToolTip": "Ex.16\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:26:45.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:26:45.029Z"
             },
             {
               "$type": "Document",
@@ -320,8 +307,7 @@
               "RelativeToolTip": "Ex.15\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T23:22:08.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T23:22:08.956Z"
             },
             {
               "$type": "Document",
@@ -333,8 +319,7 @@
               "RelativeToolTip": "Ex.9\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T01:11:15.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T01:11:15.784Z"
             },
             {
               "$type": "Document",
