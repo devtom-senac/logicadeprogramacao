@@ -1,0 +1,15 @@
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\bin\Debug\net8.0\Ex.25.exe
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\bin\Debug\net8.0\Ex.25.deps.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\bin\Debug\net8.0\Ex.25.runtimeconfig.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\bin\Debug\net8.0\Ex.25.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\bin\Debug\net8.0\Ex.25.pdb
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\obj\Debug\net8.0\Ex.25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\obj\Debug\net8.0\Ex.25.AssemblyInfoInputs.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\obj\Debug\net8.0\Ex.25.AssemblyInfo.cs
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\obj\Debug\net8.0\Ex.25.csproj.CoreCompileInputs.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\obj\Debug\net8.0\Ex.25.sourcelink.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\obj\Debug\net8.0\Ex.25.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\obj\Debug\net8.0\refint\Ex.25.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\obj\Debug\net8.0\Ex.25.pdb
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\obj\Debug\net8.0\Ex.25.genruntimeconfig.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.25\obj\Debug\net8.0\ref\Ex.25.dll

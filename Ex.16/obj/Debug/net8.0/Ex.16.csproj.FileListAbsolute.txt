@@ -1,0 +1,15 @@
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\bin\Debug\net8.0\Ex.16.exe
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\bin\Debug\net8.0\Ex.16.deps.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\bin\Debug\net8.0\Ex.16.runtimeconfig.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\bin\Debug\net8.0\Ex.16.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\bin\Debug\net8.0\Ex.16.pdb
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\obj\Debug\net8.0\Ex.16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\obj\Debug\net8.0\Ex.16.AssemblyInfoInputs.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\obj\Debug\net8.0\Ex.16.AssemblyInfo.cs
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\obj\Debug\net8.0\Ex.16.csproj.CoreCompileInputs.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\obj\Debug\net8.0\Ex.16.sourcelink.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\obj\Debug\net8.0\Ex.16.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\obj\Debug\net8.0\refint\Ex.16.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\obj\Debug\net8.0\Ex.16.pdb
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\obj\Debug\net8.0\Ex.16.genruntimeconfig.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.16\obj\Debug\net8.0\ref\Ex.16.dll

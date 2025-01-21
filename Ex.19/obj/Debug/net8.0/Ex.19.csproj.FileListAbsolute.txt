@@ -1,0 +1,15 @@
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\bin\Debug\net8.0\Ex.19.exe
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\bin\Debug\net8.0\Ex.19.deps.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\bin\Debug\net8.0\Ex.19.runtimeconfig.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\bin\Debug\net8.0\Ex.19.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\bin\Debug\net8.0\Ex.19.pdb
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\obj\Debug\net8.0\Ex.19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\obj\Debug\net8.0\Ex.19.AssemblyInfoInputs.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\obj\Debug\net8.0\Ex.19.AssemblyInfo.cs
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\obj\Debug\net8.0\Ex.19.csproj.CoreCompileInputs.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\obj\Debug\net8.0\Ex.19.sourcelink.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\obj\Debug\net8.0\Ex.19.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\obj\Debug\net8.0\refint\Ex.19.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\obj\Debug\net8.0\Ex.19.pdb
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\obj\Debug\net8.0\Ex.19.genruntimeconfig.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\Ex.19\obj\Debug\net8.0\ref\Ex.19.dll
