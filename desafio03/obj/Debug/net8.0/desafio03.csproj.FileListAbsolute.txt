@@ -1,0 +1,15 @@
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\bin\Debug\net8.0\desafio03.exe
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\bin\Debug\net8.0\desafio03.deps.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\bin\Debug\net8.0\desafio03.runtimeconfig.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\bin\Debug\net8.0\desafio03.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\bin\Debug\net8.0\desafio03.pdb
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\obj\Debug\net8.0\desafio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\obj\Debug\net8.0\desafio03.AssemblyInfoInputs.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\obj\Debug\net8.0\desafio03.AssemblyInfo.cs
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\obj\Debug\net8.0\desafio03.csproj.CoreCompileInputs.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\obj\Debug\net8.0\desafio03.sourcelink.json
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\obj\Debug\net8.0\desafio03.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\obj\Debug\net8.0\refint\desafio03.dll
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\obj\Debug\net8.0\desafio03.pdb
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\obj\Debug\net8.0\desafio03.genruntimeconfig.cache
+C:\Users\heverton.nsouza\source\repos\logica_programacao\desafio03\obj\Debug\net8.0\ref\desafio03.dll
